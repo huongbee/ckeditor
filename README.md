@@ -37,3 +37,11 @@ To test your installation, just call the following page at your website:
 For example:
 
 	http://www.example.com/ckeditor/samples/index.html
+
+
+
+
+
+ex:
+CKEDITOR.replace( 'content'); 
+gắn link
